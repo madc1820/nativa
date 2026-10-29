@@ -1,0 +1,6 @@
+{
+  "name": "NATIVA | Productos Naturales y Bienestar",
+  "description": "Landing page oficial del evento de lanzamiento de NATIVA. Descubre nuestra nueva línea de té vital, granola artesanal, miel de montaña e infusión relax. Lo natural también puede transformar tu día.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
